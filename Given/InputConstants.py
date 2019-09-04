@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 class Inputs:
     #  Path and name of input files
     network_path = "../Data/"

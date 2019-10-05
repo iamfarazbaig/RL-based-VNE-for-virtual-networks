@@ -96,7 +96,7 @@ This is the long-term revenue to cost ratio. Like the rest of the factors, we se
 
 After obtaining enough historical data from previous network requests, the results of the proposed scheme improved significantly as shown in the following figures. 
               
-####Improved Results
+###Improved Results
 * Reward: 
 
 ![Fig. 5.  Reward- Improved results](images/fig12.png)

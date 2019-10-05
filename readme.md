@@ -1,9 +1,10 @@
 ## A Co-ordinated Policy Network-based Reinforcement Learning Approach to Virtual Network Embeddings for Virtualized Networks
 
 
-### Installation
+### Prerequisites and Running the program
 
-Install tensorflow
+* Install tensorflow
+* Run the main.py file
 
 ### About the project
 

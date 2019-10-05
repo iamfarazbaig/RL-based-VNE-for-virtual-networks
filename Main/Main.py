@@ -23,7 +23,7 @@ _chain.creat_chains_functions(input_cons.chains_random_path + input_cons.chains_
                               input_cons.fun_num,
                               input_cons.chain_ban,
                               input_cons.cpu_range)
-functions = _chain.read_funcions(input_cons.chains_random_path + input_cons.chains_random_name)
+functions = _chain.read_functions(input_cons.chains_random_path + input_cons.chains_random_name)
 graph = Graph(input_cons.network_path + input_cons.network_name,
               functions)
 chains = _chain.read_chains(input_cons.chains_random_path + input_cons.chains_random_name,

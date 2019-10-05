@@ -22,7 +22,7 @@ Network virtualization allows the substrate(physical) network to be shared betwe
     In this file nsf_net network topology was defined.
     you can change it with your network topology.
     
-    How?
+    _`How?`_
     
     One dictionary that is defined in this file contains "networkTopology"
     and in the "networkTopology" list, "Nodes" and "Links" are defined.
@@ -48,7 +48,7 @@ Network virtualization allows the substrate(physical) network to be shared betwe
     In this file, chains are defined which contains two "functions" and "chains" 
     dictionary. We can define our chains in this json file.
 
-    How?
+    _`How?`_
     
     In the "functions" dictionary, functions that used in chains were placed. In
     each function defined in a list and first element of the list belongs
@@ -65,7 +65,9 @@ Network virtualization allows the substrate(physical) network to be shared betwe
     want to generate, fun_num is the maximum number of chains' function, the ban is the
     maximum bandwidth of  chains and CPU is the maximum number of cup cores that each
     function needs. 
+    
 ### Parameters
+
 We can change parameters of simulation (learning rate, number of epoch, ...) in the      	*"InputConstants.py"* which placed in the *"Given"* folder
 
 ### Results
@@ -77,7 +79,7 @@ Initially, most of the test cases would return inconsistent results as shown in 
 
 ![Fig. 1.  Reward- Initial results](images/fig8.png)
  
-In Fig 1, the reward function presents unstable results as it is early in the learning stages. 
+The reward function presents unstable results as it is early in the learning stages. 
 
 * Cost
 

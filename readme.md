@@ -74,7 +74,7 @@ We can change parameters of simulation (learning rate, number of epoch, ...) in 
 
 We run the learning agent on the training set for 100 epochs and observe its performance.
 Multiple trial runs of the algorithm were conducted to assess the performance of the algorithm. 
-Initially, most of the test cases would return inconsistent results as shown in Fig. 1-11.
+Initially, most of the test cases would return inconsistent results as shown in following figures.
 * Reward
 
 ![Fig. 1.  Reward- Initial results](images/fig8.png)

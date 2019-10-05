@@ -110,7 +110,6 @@ Stability in variation of the reward is observed after 40 epochs. This is becaus
 
 The cost function measures the total amount of bandwidth resources assigned to a virtual request. A significant spike is observed in the initial learning stages of the first 10 epochs after which, the cost gradually reduces to achieve stability.							
    
-Fig. 14. Loss function- Improved results
 * Loss 
 
 ![Fig. 7.  Loss- Improved results](images/fig14.png)
@@ -118,15 +117,12 @@ Fig. 14. Loss function- Improved results
 The loss value for each piece of data during the training sums up to an aggregated loss value, and the aim is to minimize the aggregated loss value. 
 We observe a decrease in loss function after 20 epochs to a minimal value which is desirable during a successful embedding process.
 
- 
-Fig. 15. Revenue- Improved results
 * Revenue 
 
 ![Fig. 8.  Revenue- Improved results](images/fig15.png)
 
 This is the long-term revenue to cost ratio. The revenue factor measures the profit of an internet service provider for accepting a certain virtual re-quest, and it depends on the amount of requested resources and the duration of it. 
 In our simulation, the revenue varies between 7000 to 8500 until 40 epochs, after which a stability in variation of revenue is achieved signaling successful embedding process.
-
 
 ### Conclusion
 
